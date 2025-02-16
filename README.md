@@ -1,2 +1,2 @@
 # Python-Practice
-A repo containing practice python code
+A repo containing practice questions from LeetCode.
